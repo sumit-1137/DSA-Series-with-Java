@@ -18,7 +18,7 @@ public class WaterBottlesExample {
 	public static void main(String[] args) {
 		
 		WaterBottoles w  = new WaterBottoles();
-		int res = w.WaterBottoles(9, 3);
+		int res = w.WaterBottoles(15, 4);
 		System.out.println(res);
 		
 	}
